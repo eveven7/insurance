@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/insurance/static/css/main.ce209920.css",
+    "main.js": "/insurance/static/js/main.fe4837ae.js",
+    "static/media/hero-img1.png": "/insurance/static/media/hero-img1.2c7f9630ee160c776101.png",
+    "static/media/Gordita-Medium.otf": "/insurance/static/media/Gordita-Medium.57ad2e0b7fce1864eef9.otf",
+    "static/media/Gordita-Bold.otf": "/insurance/static/media/Gordita-Bold.933dc82c419ccef42c6f.otf",
+    "static/media/Gordita-Light.otf": "/insurance/static/media/Gordita-Light.dd77b5c856048c4a0679.otf",
+    "static/media/Gordita-Regular.otf": "/insurance/static/media/Gordita-Regular.9a1fe35dd5c9e2a6ef9a.otf",
+    "static/media/logo.png": "/insurance/static/media/logo.087c8fa23628dabb697d.png",
+    "index.html": "/insurance/index.html",
+    "static/media/chevron-down.svg": "/insurance/static/media/chevron-down.efc29f884c6bec43ee56.svg",
+    "main.ce209920.css.map": "/insurance/static/css/main.ce209920.css.map",
+    "main.fe4837ae.js.map": "/insurance/static/js/main.fe4837ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce209920.css",
+    "static/js/main.fe4837ae.js"
+  ]
+}
